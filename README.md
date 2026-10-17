@@ -1,4 +1,6 @@
-# Claude Starter Workspace
+# iDSeefeld AI Workspace
+
+### Claude Starter Workspace
 
 Ein fertiges Workspace-Template für Claude Code. Gibt Claude strukturierten Kontext, damit er versteht wer du bist und woran du arbeitest — über Sessions hinweg.
 
@@ -28,3 +30,7 @@ Ein fertiges Workspace-Template für Claude Code. Gibt Claude strukturierten Kon
 Starte jede Session mit `/prime`. Claude liest deine Kontextdateien und bestätigt sein Verständnis bevor er arbeitet.
 
 Lege Material in `reference/` ab, das Claude als Input nutzen soll — Beispiel-Outputs, Dokumente zur Analyse, Vorlagen oder Muster. Claudes Arbeitsergebnisse landen in `outputs/`.
+
+## Licence
+
+Diese Struktur basiert auf einer Empfehlung von [Everlast AI](https://kiberatung.de)
