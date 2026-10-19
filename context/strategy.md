@@ -1,8 +1,8 @@
-# Strategie
+﻿# Strategie
 
 ## Aktueller Fokuszeitraum
 
-Strategieentwurf für die nächsten 12 Monate. Der Schwerpunkt liegt zunächst darauf, iDSeefeld als tragfähigen, fokussierten Dienstleister aufzubauen und wiederkehrende Kundenbeziehungen zu entwickeln. Umsatz- und Mengenziele werden ergänzt, sobald Ausgangslage, Kosten und verfügbare Kapazität feststehen.
+Strategieentwurf für die nächsten 12 Monate. Der Schwerpunkt liegt zunächst darauf, ContorDigital als tragfähigen, fokussierten Dienstleister aufzubauen und wiederkehrende Kundenbeziehungen zu entwickeln. Umsatz- und Mengenziele werden ergänzt, sobald Ausgangslage, Kosten und verfügbare Kapazität feststehen.
 
 ## Strategische Prioritäten
 

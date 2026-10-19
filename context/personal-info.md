@@ -1,7 +1,7 @@
-# Persönliche Info
+﻿# Persönliche Info
 ## Deine Rolle
 
-Ich bin Gründer und alleiniger Inhaber von iDSeefeld. In der Anfangsphase bin ich für alle Bereiche des Unternehmens zuständig.
+Ich bin Gründer und alleiniger Inhaber von ContorDigital. In der Anfangsphase bin ich für alle Bereiche des Unternehmens zuständig.
 
 ## Berufliches Profil
 
@@ -29,7 +29,7 @@ Bei technischen Entscheidungen achte ich darauf, dass Lösungen langfristig wart
 
 ## Kernaufgaben
 
-Ich übernehme zunächst alle Aufgaben, die beim Aufbau und Betrieb von iDSeefeld anfallen.
+Ich übernehme zunächst alle Aufgaben, die beim Aufbau und Betrieb von ContorDigital anfallen.
 
 - Unternehmensführung und geschäftliche Entscheidungen
 - Planung und Umsetzung der anfallenden Aufgaben

@@ -1,8 +1,8 @@
-# Lebenslauf-Zusammenfassung im Bezug auf iDSeefeld
+﻿# Lebenslauf-Zusammenfassung im Bezug auf ContorDigital
 
 ## Kurzfazit
 
-Der Lebenslauf belegt eine sehr gute fachliche Grundlage für iDSeefeld. Dirk Seefeld verbindet mehr als 30 Jahre Erfahrung in Grafik-Design, Illustration und Webentwicklung mit über 20 Jahren praktischer Erfahrung in der Entwicklung und Pflege webbasierter Lösungen. Dadurch kann iDSeefeld Gestaltung, technische Umsetzung und langfristige Betreuung aus einer Hand anbieten.
+Der Lebenslauf belegt eine sehr gute fachliche Grundlage für ContorDigital. Dirk Seefeld verbindet mehr als 30 Jahre Erfahrung in Grafik-Design, Illustration und Webentwicklung mit über 20 Jahren praktischer Erfahrung in der Entwicklung und Pflege webbasierter Lösungen. Dadurch kann ContorDigital Gestaltung, technische Umsetzung und langfristige Betreuung aus einer Hand anbieten.
 
 Die stärkste und glaubwürdigste Positionierung liegt nicht in der Entwicklung beliebiger Individualsoftware, sondern in der praxisnahen Weiterentwicklung digitaler Auftritte und Geschäftsprozesse von KMU: verständliche Beratung, passende CMS-/Weblösungen, saubere technische Umsetzung und planbare laufende Pflege.
 
@@ -21,7 +21,7 @@ Die stärkste und glaubwürdigste Positionierung liegt nicht in der Entwicklung 
 - Kenntnisse in Versionsverwaltung, Build-/Package-Ökosystemen und agilen Arbeitsweisen, unter anderem Git, GitHub, TFS, NuGet, NPM und Jira.
 - Berührungspunkte mit Single Sign-on und Identitätslösungen auf Basis von ASP.NET Identity und IdentityServer.
 
-Diese Erfahrung passt direkt zum iDSeefeld-Angebot, Geschäftsprozesse zu analysieren, geeignete Software auszuwählen, digitale Abläufe umzusetzen und vorhandene Lösungen technisch aktuell zu halten.
+Diese Erfahrung passt direkt zum ContorDigital-Angebot, Geschäftsprozesse zu analysieren, geeignete Software auszuwählen, digitale Abläufe umzusetzen und vorhandene Lösungen technisch aktuell zu halten.
 
 ### Marketing und Corporate Identity
 
@@ -31,7 +31,7 @@ Diese Erfahrung passt direkt zum iDSeefeld-Angebot, Geschäftsprozesse zu analys
 - Erfahrung in der Zusammenarbeit mit Marketingabteilungen und in der technischen Beratung zu digitalen Markenauftritten.
 - Verständnis dafür, dass ein konsistenter Markenauftritt sowohl visuelle Qualität als auch eine funktionierende technische Umsetzung benötigt.
 
-Damit verfügt iDSeefeld über eine ungewöhnlich breite Verbindung von Markenverständnis, Gestaltung, Content-Management und Entwicklung. Diese Kombination ist besonders für KMU wertvoll, die keine getrennten Agenturen für Strategie, Design und Technik koordinieren möchten.
+Damit verfügt ContorDigital über eine ungewöhnlich breite Verbindung von Markenverständnis, Gestaltung, Content-Management und Entwicklung. Diese Kombination ist besonders für KMU wertvoll, die keine getrennten Agenturen für Strategie, Design und Technik koordinieren möchten.
 
 ### Laufende Betreuung und Serviceverträge
 
@@ -41,7 +41,7 @@ Damit verfügt iDSeefeld über eine ungewöhnlich breite Verbindung von Markenve
 - Bewusstsein für Supportaufwand, Backoffice-Benutzbarkeit und die Auswirkungen schlechter Bedienbarkeit auf Kunden- und Mitarbeiterzufriedenheit.
 - Selbstständige, gewissenhafte und ausdauernde Arbeitsweise sowie Erfahrung mit Remote-Zusammenarbeit und internationalen Teams.
 
-Diese Punkte stützen das iDSeefeld-Modell wiederkehrender Verträge für Wartung, Updates, technische Unterstützung und Weiterentwicklung besonders stark.
+Diese Punkte stützen das ContorDigital-Modell wiederkehrender Verträge für Wartung, Updates, technische Unterstützung und Weiterentwicklung besonders stark.
 
 ## Berufliche Entwicklung und Beleg der Erfahrung
 
@@ -54,9 +54,9 @@ Diese Punkte stützen das iDSeefeld-Modell wiederkehrender Verträge für Wartun
 - **Seit 2022:** freiberufliche Umbraco-Entwicklung und Beratung sowie CMS-Entwicklung und -Pflege für kommunale Kunden.
 - **2023–2025:** Modernisierung und Vereinheitlichung von Umbraco-Beständen mit dem Ziel einer späteren Migration auf aktuelle Versionen.
 
-## Bedeutung für das Geschäftsmodell von iDSeefeld
+## Bedeutung für das Geschäftsmodell von ContorDigital
 
-| iDSeefeld-Leistungsfeld | Nachweis aus dem Lebenslauf | Möglicher Kundennutzen |
+| ContorDigital-Leistungsfeld | Nachweis aus dem Lebenslauf | Möglicher Kundennutzen |
 |---|---|---|
 | Digitalisierung | .NET-/C#-Entwicklung, SQL Server, Web APIs, Webshops, Systemanbindungen, CMS-Migrationen | Bestehende digitale Abläufe verstehen, verbessern und technisch umsetzen |
 | Marketing und Corporate Identity | Diplom-Design, Illustration, Marken-Websites, Marketingberatung | Einheitlicher Auftritt von Gestaltung über Website bis zur technischen Umsetzung |
@@ -65,9 +65,9 @@ Diese Punkte stützen das iDSeefeld-Modell wiederkehrender Verträge für Wartun
 
 ## Empfehlenswerte Positionierung
 
-Eine passende Kernbotschaft für iDSeefeld wäre:
+Eine passende Kernbotschaft für ContorDigital wäre:
 
-> iDSeefeld verbindet Designverständnis und langjährige Webentwicklung, um KMU bei der Digitalisierung ihres Auftritts und ihrer Abläufe persönlich, pragmatisch und dauerhaft zu unterstützen.
+> ContorDigital verbindet Designverständnis und langjährige Webentwicklung, um KMU bei der Digitalisierung ihres Auftritts und ihrer Abläufe persönlich, pragmatisch und dauerhaft zu unterstützen.
 
 Besonders glaubwürdige Angebotsbausteine sind:
 
@@ -76,7 +76,7 @@ Besonders glaubwürdige Angebotsbausteine sind:
 3. **Digitaler Auftritt für KMU:** Verbindung von Positionierung, Corporate Identity, Website und Content-Struktur.
 4. **Technische Betreuung:** Regelmäßige Updates, Backups, Sicherheitsprüfung, Monitoring und definierte Supportleistungen.
 5. **Prozess- und Systemberatung:** Analyse von Webshop-, Auftrags- und Schnittstellenprozessen mit Umsetzung geeigneter Verbesserungen.
-6. **Externe Spezialistenkoordination:** Persönliche Gesamtverantwortung durch iDSeefeld, ergänzt um Fachpartner bei Bedarf.
+6. **Externe Spezialistenkoordination:** Persönliche Gesamtverantwortung durch ContorDigital, ergänzt um Fachpartner bei Bedarf.
 
 ## Abgrenzung und mögliche Lücken
 
@@ -86,7 +86,7 @@ Für die Außendarstellung sollte außerdem zwischen dem breiten Erfahrungsspekt
 
 ## Gesamtbewertung
 
-Der Lebenslauf unterstützt das iDSeefeld-Geschäftsmodell sehr überzeugend. Die zentrale Stärke ist die seltene Kombination aus:
+Der Lebenslauf unterstützt das ContorDigital-Geschäftsmodell sehr überzeugend. Die zentrale Stärke ist die seltene Kombination aus:
 
 - strategisch und visuell denkendem Designer,
 - erfahrenem .NET-/Umbraco-Entwickler,
@@ -94,4 +94,4 @@ Der Lebenslauf unterstützt das iDSeefeld-Geschäftsmodell sehr überzeugend. Di
 - Ansprechpartner für Marketing und Technik,
 - langfristig orientiertem Betreuer von Lösungen.
 
-Damit ist iDSeefeld besonders gut für inhabergeführte KMU geeignet, die einen persönlichen Partner für die Modernisierung, Vereinheitlichung und dauerhafte Betreuung ihres digitalen Auftritts suchen.
+Damit ist ContorDigital besonders gut für inhabergeführte KMU geeignet, die einen persönlichen Partner für die Modernisierung, Vereinheitlichung und dauerhafte Betreuung ihres digitalen Auftritts suchen.
