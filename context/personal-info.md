@@ -1,7 +1,18 @@
 ﻿# Persönliche Info
+
+## Name
+Vorname: Dirk
+Nachname: Seefeld
+
+## Adresse
+Hoherade 18, D-20257 Hamburg
+
+## Kontaktdaten
+E-Mail: dirk.seefeld@contordigital.de
+
 ## Deine Rolle
 
-Ich bin Gründer und alleiniger Inhaber von ContorDigital. In der Anfangsphase bin ich für alle Bereiche des Unternehmens zuständig.
+Ich bin Dirk Seefeld und Gründer und alleiniger Inhaber von ContorDigital. In der Anfangsphase bin ich für alle Bereiche des Unternehmens zuständig.
 
 ## Berufliches Profil
 
