@@ -11,6 +11,10 @@ Führe `/prime` zum Sessionstart aus, um alle Kontextdateien zu lesen bevor du a
 - `reference/` — Beispiel-Outputs, Inputmaterial für Analysen, Vorlagen und wiederverwendbare Muster
 - `.github/skills/` — wiederverwendbare, aufgabenbezogene Agent-Skills für diesen Workspace
 
+## Pläne
+
+- `outputs/cms.idseefeld/business-website-plan.md` — Umsetzungsplan für die Business-Website auf Basis von `Cms.Idseefeld.Web` (Umbraco, parallel zur Privatseite, mit Terminbuchung)
+
 ## Regeln
 
 - Lies immer `/prime` oder die Kontextdateien bevor du mit der Arbeit beginnst
